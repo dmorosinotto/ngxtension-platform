@@ -15,6 +15,7 @@
 		"skipDefaultLibCheck": true,
 		"baseUrl": ".",
 		"paths": {
+			"local-plugin": ["libs/local-plugin/src/index.ts"],
 			"ngxtension": ["libs/ngxtension/src/index.ts"],
 			"ngxtension/assert-injector": [
 				"libs/ngxtension/assert-injector/src/index.ts"
